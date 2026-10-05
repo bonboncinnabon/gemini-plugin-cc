@@ -1,7 +1,7 @@
 {
   "name": "abiswas97-gemini",
   "owner": {
-    "name": "abiswas97"
+    "name": "bonboncinnabon"
   },
   "metadata": {
     "description": "Gemini plugin for Claude Code — code reviews and task delegation via the Gemini CLI.",

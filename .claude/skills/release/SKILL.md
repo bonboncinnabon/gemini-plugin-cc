@@ -28,7 +28,7 @@ gh workflow run release-draft.yml -f bump=$ARGUMENTS
 
 If the call fails with a permissions error, print:
 
-> This skill is maintainer-only. The repository permissions gate release dispatch; your account does not have `actions:write` on abiswas97/gemini-plugin-cc.
+> This skill is maintainer-only. The repository permissions gate release dispatch; your account does not have `actions:write` on bonboncinnabon/gemini-plugin-cc.
 
 Stop.
 

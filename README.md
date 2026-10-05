@@ -23,7 +23,7 @@ Based on [`openai/codex-plugin-cc`](https://github.com/openai/codex-plugin-cc), 
 Add the marketplace in Claude Code:
 
 ```bash
-/plugin marketplace add abiswas97/gemini-plugin-cc
+/plugin marketplace add bonboncinnabon/gemini-plugin-cc
 ```
 
 Install the plugin:
